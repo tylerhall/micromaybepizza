@@ -1,0 +1,90 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "maybe pizza",
+	"icon": "https://micro.blog/tylerhall/avatar.jpg",
+	"home_page_url": "https://maybe.pizza/",
+	"feed_url": "https://maybe.pizza/feed.json",
+	"items": [
+		
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/24/some-things-never.html",
+				
+				"content_html": "<p>Some things never change. They just get older.</p>\n<p><img src=\"https://maybe.pizza/uploads/2022/71810ff1cf.png\" alt=\"\"></p>\n",
+				"content_text": "Some things never change. They just get older.\n\n![](https://maybe.pizza/uploads/2022/71810ff1cf.png)\n\n",
+				"date_published": "2022-11-24T16:07:46-05:00",
+				"url": "https://maybe.pizza/2022/11/24/some-things-never.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/24/taco-thursday.html",
+				
+				"content_html": "<p>Taco Thursday</p>\n<p><img src=\"https://maybe.pizza/uploads/2022/4822b9fdc4.jpg\" alt=\"\"></p>\n",
+				"content_text": "Taco Thursday\n\n![](https://maybe.pizza/uploads/2022/4822b9fdc4.jpg)\n\n",
+				"date_published": "2022-11-24T15:51:34-05:00",
+				"url": "https://maybe.pizza/2022/11/24/taco-thursday.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/09/i-hate-that.html",
+				
+				"content_html": "<p>I hate that feeling better and getting my health in order was nothing more than regular exercise.</p>\n<p>I hate even more that it took me so long to figure that out.</p>\n<p><img src=\"https://maybe.pizza/uploads/2022/1b00395232.jpg\" alt=\"\"></p>\n",
+				"content_text": "I hate that feeling better and getting my health in order was nothing more than regular exercise.\n\nI hate even more that it took me so long to figure that out.\n\n![](https://maybe.pizza/uploads/2022/1b00395232.jpg)\n\n",
+				"date_published": "2022-11-10T00:00:52-05:00",
+				"url": "https://maybe.pizza/2022/11/09/i-hate-that.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/08/walking-around-downtown.html",
+				
+				"content_html": "<p><img src=\"https://maybe.pizza/uploads/2022/36efe62277.jpg\" alt=\"\"><img src=\"https://maybe.pizza/uploads/2022/a6da6eaabe.jpg\" alt=\"\"></p>\n<p>Walking around downtown this weekend.</p>\n",
+				"content_text": "![](https://maybe.pizza/uploads/2022/36efe62277.jpg)![](https://maybe.pizza/uploads/2022/a6da6eaabe.jpg)\n\nWalking around downtown this weekend.\n\n",
+				"date_published": "2022-11-08T08:36:52-05:00",
+				"url": "https://maybe.pizza/2022/11/08/walking-around-downtown.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/08/new-poster-for.html",
+				
+				"content_html": "<p><img src=\"https://maybe.pizza/uploads/2022/e497d519fd.jpg\" alt=\"\"></p>\n<p>New poster for my office at work.</p>\n",
+				"content_text": "![](https://maybe.pizza/uploads/2022/e497d519fd.jpg)\n\nNew poster for my office at work.\n\n",
+				"date_published": "2022-11-08T08:29:08-05:00",
+				"url": "https://maybe.pizza/2022/11/08/new-poster-for.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/03/halfway-through-cakes.html",
+				
+				"content_html": "<p>Halfway through Cake’s <em>Comfort Eagle</em> (whole album) my son says</p>\n<blockquote>\n<p>What kind of music <em>is</em> this?</p>\n</blockquote>\n<p>I turn to the back seat of the car</p>\n<blockquote>\n<p>90s post-grunge slacker pop.</p>\n</blockquote>\n<p>Pause. And then from him</p>\n<blockquote>\n<p>Oh. That was&hellip;specific.</p>\n</blockquote>\n",
+				"content_text": "Halfway through Cake’s _Comfort Eagle_ (whole album) my son says\n\n> What kind of music _is_ this?\n\nI turn to the back seat of the car\n\n> 90s post-grunge slacker pop.\n\nPause. And then from him\n\n> Oh. That was...specific.\n\n\n",
+				"date_published": "2022-11-03T19:00:00-05:00",
+				"url": "https://maybe.pizza/2022/11/03/halfway-through-cakes.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/01/hugs-goodnight-while.html",
+				"title": "Hugs goodnight while on a business trip",
+				"content_html": "<p><img src=\"https://maybe.pizza/uploads/2022/c008d221fc.png\" alt=\"\"></p>\n<p><img src=\"https://maybe.pizza/uploads/2022/0b946ce179.png\" alt=\"\"></p>\n",
+				"content_text": "![](https://maybe.pizza/uploads/2022/c008d221fc.png)\n\n![](https://maybe.pizza/uploads/2022/0b946ce179.png)\n\n",
+				"date_published": "2022-11-01T20:00:00-05:00",
+				"url": "https://maybe.pizza/2022/11/01/hugs-goodnight-while.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/11/01/so-beyond-past.html",
+				
+				"content_html": "<p><img src=\"https://maybe.pizza/uploads/2022/bf08a365bd.jpg\" alt=\"\"></p>\n<p>So Beyond. Past Bed and Bath. Into the Beyond. Balls.</p>\n",
+				"content_text": "![](https://maybe.pizza/uploads/2022/bf08a365bd.jpg)\n\nSo Beyond. Past Bed and Bath. Into the Beyond. Balls.\n\n",
+				"date_published": "2022-11-01T19:00:00-05:00",
+				"url": "https://maybe.pizza/2022/11/01/so-beyond-past.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/10/28/fuck-that-wasnot.html",
+				
+				"content_html": "<p>Fuck. That was&hellip;not easy.</p>\n<p><img src=\"https://maybe.pizza/uploads/2022/23455471e1.jpg\" alt=\"\"></p>\n",
+				"content_text": "Fuck. That was...not easy.\n\n![](https://maybe.pizza/uploads/2022/23455471e1.jpg)\n\n",
+				"date_published": "2022-10-28T19:00:00-05:00",
+				"url": "https://maybe.pizza/2022/10/28/fuck-that-wasnot.html"
+			},
+			{
+				"id": "http://tylerhall.micro.blog/2022/10/22/passive-aggressive-sticky.html",
+				
+				"content_html": "<p>Passive aggressive sticky note behind the cash register in the Dillard’s kids section.</p>\n<p><img src=\"https://maybe.pizza/uploads/2022/fb42a759b3.jpg\" alt=\"\"></p>\n",
+				"content_text": "Passive aggressive sticky note behind the cash register in the Dillard’s kids section.\n\n![](https://maybe.pizza/uploads/2022/fb42a759b3.jpg)\n\n",
+				"date_published": "2022-10-22T19:00:00-05:00",
+				"url": "https://maybe.pizza/2022/10/22/passive-aggressive-sticky.html"
+			}
+	]
+}
